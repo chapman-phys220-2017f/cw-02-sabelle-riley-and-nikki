@@ -1,6 +1,6 @@
 # PHYS220 CW 2
 
-**Author(s):** **CHANGEME**
+**Author(s): Riley Kendall, Sabelle O'Connell, and Nikki Schwartz
 
 ## Specification
 
@@ -61,7 +61,7 @@ the coordinates in a list.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+Would you be able to go over how to do the actual coding? It does not need to be in depth but a quick review may help all of us to be able to know how to code.
 
 **CHANGEME**
 
@@ -74,4 +74,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Riley Kendall, Sabelle O'Connell, and Nikki Schwartz
