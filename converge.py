@@ -11,3 +11,7 @@ def compute_sum(tol=1e-2):
 	next_sum = ((1/k)**2)
     print("Final Sum:",final_sum)
 compute_sum()
+
+compute_sum(1)
+compute_sum(.5)
+compute_sum(.25)
