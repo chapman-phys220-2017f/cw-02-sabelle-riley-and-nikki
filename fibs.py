@@ -12,18 +12,14 @@ def fibs(n):
         a,b = b,a+b
         n=n-1
     return(fib_list)
-
-print(fibs(n))
+#print(fibs(n))
 
 def fibs_generator():
-    
     a,b = 0, 1
-    
     while True:
         yield b
         a,b = b, a+b
-
-g = fibs_generator()
-print([next(g) for _ in range(n)] )
-
-    
+    return g
+        
+#g = fibs_generator()
+#print([next(g) for _ in range(n)] )
